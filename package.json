@@ -1,0 +1,24 @@
+{
+  "name": "livy-onNode",
+  "version": "1.0.0",
+  "description": "Live Stream your camera via Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayand017/livy-onNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayand017/livy-onNode/issues"
+  },
+  "homepage": "https://github.com/jayand017/livy-onNode#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.0.0"
+  }
+}
